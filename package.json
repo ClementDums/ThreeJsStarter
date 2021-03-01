@@ -24,6 +24,6 @@
     "sass-loader": "^7.0.1"
   },
   "dependencies": {
-    "three": "^0.115.0"
+    "three": "^0.125.0"
   }
 }
